@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79406428666",
+    "project_id": "funlearning-1208e",
+    "storage_bucket": "funlearning-1208e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79406428666:android:720faa695f6a65749df443",
+        "android_client_info": {
+          "package_name": "com.example.funlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79406428666-u6mta570g9t90u01s2hesbnof3frk675.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl9WDnbmiWSzsjG0I-QWUOIeGTQBc0qno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79406428666-u6mta570g9t90u01s2hesbnof3frk675.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Text Recognizer" android:id="@+id/btnrecognizer"/>
+    <item android:title="Voice Notes" android:id="@+id/speechtotext"/>
+    <item android:title="Memorize by Listening" android:id="@+id/texttospeech"/>
+    <item android:title="Analyse Your Work Time" android:id="@+id/timerservice"/>
+    <item android:title="Profile" android:id="@+id/btnProfile" />
+    <item android:title="About Us" android:id="@+id/btnAboutUs" />
+    <item android:title="Contact Us" android:id="@+id/btnContactUs"/>
+
+</menu>

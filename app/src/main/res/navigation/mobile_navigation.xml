@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/mainActivity2">
+    <activity
+        android:id="@+id/mainActivity2"
+        android:name="com.example.funlearning.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <activity
+        android:id="@+id/textRecognizer"
+        android:name="com.example.funlearning.TextRecognizer"
+        android:label="text_recognizer"
+        tools:layout="@layout/text_recognizer" />
+    <activity
+        android:id="@+id/speechToText"
+        android:name="com.example.funlearning.SpeechToText"
+        android:label="activity_speech_to_text"
+        tools:layout="@layout/activity_speech_to_text" />
+    <activity
+        android:id="@+id/textToSpeech2"
+        android:name="com.example.funlearning.TextToSpeech"
+        android:label="activity_text_to_speech"
+        tools:layout="@layout/activity_text_to_speech" />
+    <activity
+        android:id="@+id/timerService"
+        android:name="com.example.funlearning.TimerService"
+        android:label="TimerService" />
+</navigation>
